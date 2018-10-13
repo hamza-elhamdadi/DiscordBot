@@ -1,0 +1,8 @@
+{
+  "name":"greeter-bot",
+  "version":"1.0.0",
+  "description":"IT Service Desk Bot",
+  "main":"bot.js",
+  "author":"Hamza Elhamdadi",
+  "dependencies": {}
+}
